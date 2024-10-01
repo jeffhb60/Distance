@@ -1,3 +1,5 @@
+# This class will take two physical addresses and provide data about the distance.  This particular implementation uses googleapis and will require a
+# a Google API key that will need to connect to Google Maps API.  
 import googlemaps
 import os
 
